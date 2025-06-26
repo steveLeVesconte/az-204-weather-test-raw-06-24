@@ -13,10 +13,12 @@ This project serves as a learning testbed for:
 ## Deployment Objectives
 
 ### ✅ Completed
-1. **CLI-focused deployment of Container Instance** - Manual Azure Container Instance deployment via CLI
+1. **CLI-focused deployment of Container Instance** - Manual Azure Container Instance deployment via CLI - v1.0.0
+   - This includes a working script for deploying the API as a Docker container in Azure Container Instances (ACI).
+2. **CLI-focused deployment of Container App** - Manual Azure Container Instance deployment via CLI - v1.0.1
+   - This includes a working script for deploying the API as a Docker container in Azure Container Apps.
 
 ### 🔄 Planned Implementation
-2. CLI-focused deployment of Container App
 3. GitHub Actions deployment of Container Instance  
 4. GitHub Actions deployment of Container App
 5. Infrastructure as Code with Bicep templates
