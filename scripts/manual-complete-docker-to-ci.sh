@@ -23,6 +23,12 @@ az acr create \
   --sku Basic \
   --admin-enabled true
 
+
+#   CD to Root of the project directory!!!!!!!!!!!!!!!!!!!!
+
+
+
+
 # Step 3: Build and push Docker image
 echo "Building and pushing Docker image..."
 # Build the Docker image locally first
